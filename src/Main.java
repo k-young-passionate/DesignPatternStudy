@@ -1,4 +1,4 @@
-import creational.client.Client;
+import creational.abstractfactory.client.Client;
 
 public class Main {
 	public static void main(String[] args) {

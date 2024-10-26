@@ -1,6 +1,6 @@
-package creational.factory.current;
+package creational.abstractfactory.factory.current;
 
-import creational.factory.AbstractThermometer;
+import creational.abstractfactory.factory.AbstractThermometer;
 
 class CurrentThermometer implements AbstractThermometer {
 	double temperature;

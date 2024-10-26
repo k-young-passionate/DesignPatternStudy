@@ -1,6 +1,6 @@
-package creational.factory.past;
+package creational.abstractfactory.factory.past;
 
-import creational.factory.AbstractThermometer;
+import creational.abstractfactory.factory.AbstractThermometer;
 
 class PastThermometer implements AbstractThermometer {
 	int temperature;

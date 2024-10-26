@@ -1,7 +1,7 @@
-package creational.factory.past;
+package creational.abstractfactory.factory.past;
 
-import creational.factory.AbstractAirConditioner;
-import creational.factory.AbstractThermometer;
+import creational.abstractfactory.factory.AbstractAirConditioner;
+import creational.abstractfactory.factory.AbstractThermometer;
 
 class PastAirConditioner implements AbstractAirConditioner {
 

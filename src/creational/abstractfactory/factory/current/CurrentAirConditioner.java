@@ -1,7 +1,7 @@
-package creational.factory.current;
+package creational.abstractfactory.factory.current;
 
-import creational.factory.AbstractAirConditioner;
-import creational.factory.AbstractThermometer;
+import creational.abstractfactory.factory.AbstractAirConditioner;
+import creational.abstractfactory.factory.AbstractThermometer;
 
 class CurrentAirConditioner implements AbstractAirConditioner {
 

@@ -1,10 +1,9 @@
-package creational.client;
+package creational.abstractfactory.client;
 
-import creational.factory.AbstractAirConditioner;
-import creational.factory.AbstractFactory;
-import creational.factory.AbstractThermometer;
-import creational.factory.current.CurrentFactory;
-import creational.factory.past.PastFactory;
+import creational.abstractfactory.factory.AbstractAirConditioner;
+import creational.abstractfactory.factory.AbstractFactory;
+import creational.abstractfactory.factory.AbstractThermometer;
+import creational.abstractfactory.factory.current.CurrentFactory;
 
 public class Client {
 	// AbstractFactory factory = new PastFactory()

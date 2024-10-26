@@ -1,4 +1,4 @@
-package creational.factory;
+package creational.abstractfactory.factory;
 
 public interface AbstractFactory {
 	AbstractThermometer createThermometer();
